@@ -1,4 +1,4 @@
-# COA-Challenge
+# COA-TASK-Challenge
 
 Welcome to the COA-Challenge repository! This repository contains my solutions to the following challenges:
 
@@ -27,7 +27,7 @@ Ensure you have the following software installed on your machine:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Prince-Kid/COA-Challenge.git
+   git clone https://github.com/uwitonze-solange/COA-Challenge.git
    ```
 
 2. Navigate to the project directory:
